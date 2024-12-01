@@ -82,3 +82,12 @@ if you want to use than you can add it self</strong> </p>
                 </tr>
             </tbody>
         </table>
+    </section>
+    <h2>Screenshots:</h2>
+      
+![Screenshot 2024-11-29 at 12 09 05 PM](https://github.com/user-attachments/assets/4db0c129-8763-42f8-a0ba-9e6a4eae9f16)
+![Screenshot 2024-11-29 at 12 09 14 PM](https://github.com/user-attachments/assets/ca08a853-ef27-4e64-81a7-f29da38e7a96)
+![Screenshot 2024-11-29 at 12 09 21 PM](https://github.com/user-attachments/assets/daebcd05-aecd-4430-929c-678e8d205ed4)
+
+
+
